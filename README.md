@@ -2,7 +2,7 @@
 [![Documentation Status](https://readthedocs.org/projects/sortasurvey/badge/?version=latest)](https://sortasurvey.readthedocs.io/en/latest/?badge=latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-# sort-a-survey:
+# The sort-a-survey take on The TESS-Keck Survey
 hands-off target selection for large astronomical surveys
 
 ## Features
@@ -63,7 +63,7 @@ subcommands:
 
 ## Advanced Usage
 
-isoclassify includes a command line interface (CLI) for convenient single star processing, as well as batch processing of many stars.
+CLI stuff
 
 ### Tutorials 
 
